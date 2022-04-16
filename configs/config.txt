@@ -1,0 +1,6 @@
+2
+25
+
+
+line 1 = sleep time between returns to chooser
+line 2 = max amount of shown lines (or torrents)
